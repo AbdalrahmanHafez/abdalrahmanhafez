@@ -11,6 +11,7 @@ I am **interested** in Machine Learning, Robotics, ROS, Automation and Control.
 **Skills**:
 * Coding
 * Problem Solving (Competitive Programming)
+* Mathematics
 * Teaching
 * Quick learning
 * Linux user (beginner 😄) 
