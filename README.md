@@ -1,9 +1,9 @@
 #### Hello there, 
 I am **_Hadi Elnemr_**,
 
-a Mechatronics Engineering student at the German University in Cairo (GUC).
+a **Mechatronics Engineering** student at the **German University in Cairo** (GUC).
 
-I am interested in Machine Learning, Robotics, ROS, Automation and Control
+I am interested in Machine Learning, Robotics, ROS, Automation and Control.
 
 * I am currently learning **ML** and **Data Science**.
 * I am learning **German** (Level B1).
