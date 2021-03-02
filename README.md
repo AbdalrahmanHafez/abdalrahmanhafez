@@ -17,6 +17,7 @@ I am **interested** in Machine Learning, Robotics, ROS, Automation and Control.
 * Linux user (beginner 😄) 
 
 Please feel free to **contact** me for any projects suggestions or any advices on: 
-* This is my [**LinkedIn**](https://www.linkedin.com/in/hadi-elnemr/)
-* This is my [**GitHub**](https://github.com/HadiElnemr)
-* This is my [**Email**](hadi.elnemr@gmail.com)
+* [**LinkedIn**](https://www.linkedin.com/in/hadi-elnemr/)
+* [**GitHub**](https://github.com/HadiElnemr)
+* [**Gmail**](hadi.elnemr@gmail.com)
+* [**Facebook**](facebook.com/hadi.elnimr)
