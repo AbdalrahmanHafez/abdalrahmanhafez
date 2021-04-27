@@ -6,7 +6,6 @@ a **Mechatronics Engineering** student at the **German University in Cairo** (GU
 I am **interested** in Machine Learning, Robotics, ROS, Automation and Control.
 
 * I am currently learning **ML** and **Data Science**.
-* I am learning **German** (Level B1).
 
 **Skills**:
 * Coding
