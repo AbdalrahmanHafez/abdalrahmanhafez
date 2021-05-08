@@ -5,7 +5,7 @@ a **Mechatronics Engineering** student at the **German University in Cairo** (GU
 
 I am **interested** in Machine Learning, Robotics, ROS, Automation and Control.
 
-* I am currently learning **ML** and **Data Science**.
+* I am currently learning **ML** and **Embedded Systems**.
 
 **Skills**:
 * Coding
@@ -20,3 +20,5 @@ Please feel free to **contact** me for any projects suggestions or any advices o
 * [**GitHub**](https://github.com/HadiElnemr)
 * [**Gmail**](hadi.elnemr@gmail.com)
 * [**Facebook**](https://www.facebook.com/hadi.elnimr)
+
+Check out [**http://hadielnemr.github.io/**](http://hadielnemr.github.io/)
