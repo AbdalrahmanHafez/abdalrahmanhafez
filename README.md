@@ -27,4 +27,4 @@ My Website [**http://hadielnemr.github.io/**](http://hadielnemr.github.io/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HadiElnemr&langs_count=10&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HadiElnemr&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HadiElnemr)](https://github.com/anuraghazra/github-readme-stats)
