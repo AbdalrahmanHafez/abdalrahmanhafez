@@ -21,4 +21,6 @@ Please feel free to **contact** me for any projects suggestions or any advices o
 * [**Gmail**](hadi.elnemr@gmail.com)
 * [**Facebook**](https://www.facebook.com/hadi.elnimr)
 
-Check out [**http://hadielnemr.github.io/**](http://hadielnemr.github.io/)
+My Website [**http://hadielnemr.github.io/**](http://hadielnemr.github.io/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadiElnemr)](https://github.com/anuraghazra/github-readme-stats)
