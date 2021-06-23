@@ -1,31 +1,27 @@
-![](https://komarev.com/ghpvc/?username=HadiElnemr)
+![](https://komarev.com/ghpvc/?username=abdalrahmanhafez)
 #### Hello there, 
-I am **_Hadi Elnemr_**,
+I am **_Abdelrahman Hafez_**,
+A **Computer Science** student at the **German University in Cairo** (**GUC**) (To graduate on June 2023 isA).
 
-a **Mechatronics Engineering** student at the **German University in Cairo** (GUC) (To graduate on June 2023 isA).
+I am interested in Software Engineering, Web Development, Backend architecture, Computer vision, Information visualization, Image proccessing, Cypersecurity and Cryptography
 
-I am **interested** in Machine Learning, Robotics, ROS, Automation and Control.
+* I am currently learning **Android Development** 
 
-* I am currently learning **ML** and **Embedded Systems**.
-
-**Skills**:
+## Skills
 * Coding
-* Problem Solving (Competitive Programming)
-* Mathematics
-* Teaching
-* Quick learning
+* Problem Solving
+* Quick learner
 * Linux user
+* Git
 
-Please feel free to **contact** me for any projects suggestions or any advices on: 
-* [**LinkedIn**](https://www.linkedin.com/in/hadi-elnemr/)
-* [**GitHub**](https://github.com/HadiElnemr)
-* [**Gmail**](hadi.elnemr@gmail.com)
-* [**Facebook**](https://www.facebook.com/hadi.elnimr)
+## Contacts
+Please feel free to contact me for any projects suggestions or any advices on: 
+* [**LinkedIn**](www.linkedin.com/in/abdalrahmanhafez/)
+* [**GitHub**](https://github.com/abdalrahmanhafez)
+* [**Gmail**](dahomyhafiz999@gmail.com)
 
-My Website [**http://hadielnemr.github.io/**](http://hadielnemr.github.io/)
+My Website [**http://abdohafez.github.io/**](http://abdohafez.github.io/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadiElnemr&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdalrahmanhafez&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HadiElnemr&langs_count=10&hide=css,makefile,html,rich%20text%20format,jupyter%20notebook,javascript,vhdl&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HadiElnemr&theme=vision-friendly-dark&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalrahmanhafez&langs_count=10&hide=css,makefile,html,rich%20text%20format,jupyter%20notebook,javascript,vhdl,verilog&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
