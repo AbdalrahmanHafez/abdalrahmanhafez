@@ -20,7 +20,7 @@ Please feel free to contact me for any projects suggestions or any advices on:
 * [**GitHub**](https://github.com/abdalrahmanhafez)
 * [**Gmail**](dahomyhafiz999@gmail.com)
 
-My Website [**http://abdohafez.github.io/**](http://abdohafez.github.io/)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdalrahmanhafez&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
