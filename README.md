@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=abdalrahmanhafez)
 #### Hello there, 
 I am **_Abdelrahman Hafez_**,
-A **Computer Science** student at the **German University in Cairo** (**GUC**) (To graduate on June 2023 isA).
+A **Computer Science** graduate from the **German University in Cairo** (**GUC**).
 
 I am interested in Software Engineering, Web Development, Backend architecture, Computer vision, Information visualization, Image proccessing, Cypersecurity and Cryptography
 
