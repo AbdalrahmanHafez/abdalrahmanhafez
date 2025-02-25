@@ -16,9 +16,9 @@ I am interested in Software Engineering, Web Development, Backend architecture, 
 
 ## Contacts
 Please feel free to contact me for any projects suggestions or any advices on: 
-* [**LinkedIn**](www.linkedin.com/in/abdalrahmanhafez/)
+* [**LinkedIn**](https://www.linkedin.com/in/abdalrahmanhafez/)
 * [**GitHub**](https://github.com/abdalrahmanhafez)
-* [**Gmail**](dahomyhafiz999@gmail.com)
+* [**Gmail**](mailto:dahomyhafiz999@gmail.com)
 
 
 
